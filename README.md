@@ -2,7 +2,7 @@
 
 This repository contains the MVP for a web-based SARS-CoV-2 analysis platform.
 
-## MVP goals
+## Main goals
 
 - Upload one or more FASTA files
 - Validate SARS-CoV-2 sequences
