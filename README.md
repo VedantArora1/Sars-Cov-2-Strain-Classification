@@ -13,6 +13,7 @@ This repository contains the MVP for a web-based SARS-CoV-2 analysis platform.
 - Present results in a web dashboard
 - Generate the base structure for later ML and phylogenetic expansion
 
+
 ## Repository structure
 
 - `frontend/` - Next.js web interface
